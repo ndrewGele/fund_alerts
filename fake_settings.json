@@ -1,0 +1,7 @@
+{
+  "user": "your_gmail_address",
+  "pass": "your_gmail_app_password",
+  "recipients": [
+    "email_or_text_recipients"
+  ]
+}

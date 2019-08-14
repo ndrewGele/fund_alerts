@@ -1,3 +1,8 @@
+# Don't let people see your settings ya dingus
+settings.json
+
+# Thanks Github for everything below
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
