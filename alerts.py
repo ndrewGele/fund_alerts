@@ -7,7 +7,7 @@ import json
 
 # Just want to watch some major worldwide indexes
 mutual_funds = ['^GSPC', '^DJI', '^IXIC', '^FTSE', '^N100', '^FCHI', '^GDAXI', '^N225', '^TWII', '^HSI']
-mutual_funds = YahooFinancials(mutual_funds[0:2])
+mutual_funds = YahooFinancials(mutual_funds)
 
 
 
